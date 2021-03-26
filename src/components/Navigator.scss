@@ -1,23 +1,23 @@
 .navigator {
-  display: flex;
-  text-decoration: none;
-  &__menu {
-    list-style: none;
-  }
-  &__menuLink{
-    text-decoration: none;
-    font-size: 16px;
-    color: #1F2431;
-    margin: 0 20px;
-  }
-  &__menuIcon {
-    font-size: 24px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #1F2431;
-  }
+	display: flex;
+	text-decoration: none;
+	&__menu {
+		list-style: none;
+	}
+	&__menuLink {
+		text-decoration: none;
+		font-size: 16px;
+		color: #1f2431;
+		margin: 0 20px;
+	}
+	&__menuIcon {
+		font-size: 24px;
+		font-weight: bold;
+		text-decoration: none;
+		color: #1f2431;
+	}
 }
 .fa-grip-horizontal {
-  margin-right: 5px;
-  color: #315EFB;
+	margin-right: 5px;
+	color: #315efb;
 }

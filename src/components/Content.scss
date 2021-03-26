@@ -1,0 +1,42 @@
+.content {
+  margin: 8em 8em;
+  &__header {
+    font-size: 36px;
+    color: #1F2431;
+    margin-bottom: 1em;
+    align-items: center;
+  }
+  &__copy {
+    color: #82899B;
+    font-size: 16px;
+    line-height: 1.3em;
+    margin-bottom: 3em;
+  }
+  &__link {
+    padding: 12px 50px;
+    background-color: #315EFB;
+    border-radius: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+  }
+  &__text {
+    width: 50%;
+    font-size: 16px;
+    color: #82899B;
+    line-height: 2em;
+    margin-top: 50px;
+    padding: 0px;
+  }
+  &__bottom {
+    margin-top: 10em;
+    display: flex;
+  }
+  &__head {
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5em;
+  }
+}

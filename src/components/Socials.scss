@@ -1,0 +1,14 @@
+.socials {
+  font-size: 24px;
+  &__menu {
+    list-style: none;
+    padding: 0 30px;
+  }
+  &__menuItem {
+  }
+  &__menuLink {
+    color: #1F2431;
+    text-decoration: none;
+    margin: 0px 5px;
+  }
+}

@@ -7,7 +7,7 @@ function Content ({link}) {
       <p className="content__copy">The easiest way to manage <br/>multiple cryptocurrency assets</p>
       <a href="/" className="content__link"
       //eslint-disable-next-line
-      onClick={() => gtag("event", "select_content", { "content_type": link, "test-type": "A" })}>CREATE WALLET</a>
+      onClick={() => gtag("event", "select_content", { "content_type": link, "test-type": "B" })}>CREATE WALLET</a>
     </div>
   )
 }
